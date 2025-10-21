@@ -1,7 +1,17 @@
 # week8_openSW_practice
 
 # __주제 SNS__
-* Top Instagram Influencers Data [Kaggle address](./https://www.kaggle.com/datasets/surajjha101/top-instagram-influencers-data-cleaned?resource=download)
+---
+
+- kaggle 'kpop idol instagram followers' [https://www.kaggle.com/datasets/faisalamir/kpop-idol-followers/data](https://www.kaggle.com/datasets/faisalamir/kpop-idol-followers/data)
+
+| Stage.Name | Group | ig_name | Followers | Gender.x |
+| ---------- | ----- | ------- | --------- | -------- |
+| Ace | VAV | ace.vav | 335439 | Boy |
+| Ahra | FAVORITE | ahra.view | 12342 | Girl |
+
+
+- Top Instagram Influencers Data [Kaggle address](./https://www.kaggle.com/datasets/surajjha101/top-instagram-influencers-data-cleaned?resource=download)
 
 | rank | channel_info           | influence_score | posts | followers | avg_likes | 60_day_eng_rate | new_post_avg_like | total_likes | country                |
 | ---- | ---------------------- | --------------- | ----- | --------- | --------- | --------------- | ----------------- | ----------- | ---------------------- |
@@ -205,3 +215,4 @@
 | 198  | luansantana            | 79              | 0.77k | 33.2m     | 193.3k    | 0.26%           | 82.6k             | 149.2m      | Brazil                 |
 | 199  | nickjonas              | 78              | 2.3k  | 33.0m     | 719.6k    | 1.42%           | 467.7k            | 1.7b        | United States          |
 | 200  | raisa6690              | 80              | 4.2k  | 32.8m     | 232.2k    | 0.30%           | 97.4k             | 969.1m      | Indonesia              |
+
